@@ -1,5 +1,5 @@
 # -GFT-ArmA3-sources
-Where I store my sources.
+Where I, GuyFawkesTom, https://steamcommunity.com/id/guyfawkestom/myworkshopfiles/?appid=107410 store my sources.
 You'll find here source files for my Arma 3 mods
 
 License:
